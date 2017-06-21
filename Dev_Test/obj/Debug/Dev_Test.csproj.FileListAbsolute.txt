@@ -1,0 +1,6 @@
+c:\users\rob\documents\visual studio 2015\Projects\WinForms\Dev_Test_Sol\Dev_Test\bin\Debug\Dev_Test.exe.config
+c:\users\rob\documents\visual studio 2015\Projects\WinForms\Dev_Test_Sol\Dev_Test\bin\Debug\Dev_Test.exe
+c:\users\rob\documents\visual studio 2015\Projects\WinForms\Dev_Test_Sol\Dev_Test\bin\Debug\Dev_Test.pdb
+c:\users\rob\documents\visual studio 2015\Projects\WinForms\Dev_Test_Sol\Dev_Test\obj\Debug\Dev_Test.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2015\Projects\WinForms\Dev_Test_Sol\Dev_Test\obj\Debug\Dev_Test.exe
+c:\users\rob\documents\visual studio 2015\Projects\WinForms\Dev_Test_Sol\Dev_Test\obj\Debug\Dev_Test.pdb
